@@ -1,0 +1,19 @@
+{
+  "name": "win-key-generator",
+  "version": "1.0.0",
+  "description": "Generate keys for Windows 95 and above!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavthorat78/Win-Key-Generator.git"
+  },
+  "author": "Arnav Thorat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnavthorat78/Win-Key-Generator/issues"
+  },
+  "homepage": "https://github.com/arnavthorat78/Win-Key-Generator#readme"
+}
