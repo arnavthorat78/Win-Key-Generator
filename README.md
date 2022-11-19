@@ -16,6 +16,8 @@ _Note: From Windows Vista and onwards, the official Microsoft bypass keys are us
 
 To download the executable, please go to the releases tab and download the latest version. If you have Node.js installed, you can download the `.zip` file, extract the source code, and then run `node .` in the top-level directory of the code where `index.js` is. Please note that `npm` must also be installed.
 
+Also, if you are running Node.js, run the command `npm install` to install the dependencies.
+
 The display will be the same in both the executable and in Node.js - a terminal prompt!
 
 ### Getting Windows 95/Office 95 Keys
